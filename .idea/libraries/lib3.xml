@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bazel-mybazelproject/external/rules_java~~toolchains~remotejdk21_win/lib/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bazel-mybazelproject/external/rules_java~~toolchains~remotejdk21_win/lib/jrt-fs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

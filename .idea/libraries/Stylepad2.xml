@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Stylepad2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bazel-mybazelproject/external/rules_java~~toolchains~remotejdk11_win/demo/jfc/Stylepad/Stylepad.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bazel-mybazelproject/external/rules_java~~toolchains~remotejdk11_win/demo/jfc/Stylepad/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SwingSet2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bazel-mybazelproject/external/rules_java~~toolchains~remotejdk11_win/demo/jfc/SwingSet2/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bazel-mybazelproject/external/rules_java~~toolchains~remotejdk11_win/demo/jfc/SwingSet2/SwingSet2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
